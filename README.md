@@ -10,6 +10,6 @@ git clone https://github.com/jksinton/intel-igc.git
 cd intel-igc
 
 sudo dkms add .
-sudo dkms build igc -v 5.4.0-7642.46
-sudo dkms install --force igc -v 5.4.0-7642.46
+sudo dkms build igc -v 5.4
+sudo dkms install --force igc -v 5.4
 ```
