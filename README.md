@@ -6,7 +6,7 @@ Linux 5.4 kernel driver for Intel(R) I225-LM/I225-V 2.5G Ethernet Controller
 Install it from source with:
 
 ```
-git clone https://github.com/jksinton/intel-igc.git
+git clone https://github.com/jadams/intel-igc.git
 cd intel-igc
 
 sudo dkms add .
